@@ -3,7 +3,8 @@
 I'm a Full Stack developer and 1337 Coding School(42 Network) student
 <br />
 
-#
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -26,14 +27,14 @@ I'm a Full Stack developer and 1337 Coding School(42 Network) student
 <br />
 <br />
 
-#
+---
 
 ### 📊 Stats
 
 ![Mouad-Halli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouad-halli&show_icons=true&theme=city_lights&bg_color=00000000)
 <br />
 
-#
+---
 
 ### Connect with me
 <a href="https://mouadhalli.com/" target="blank"><img align="left" src="http://mouadhalli.com/static/media/logo-no-background.9ae9cc840b2b3743ef47.png" height="28" /></a>
