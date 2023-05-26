@@ -1,6 +1,6 @@
 ## :wave: Hi my name is Halli Mouad
 <br />
-I'm a Full Stack Developer and a Software Engineering Student 1337 Coding School (42 Network).
+I'm a Full Stack Developer and a Software Engineering Student at 1337 Coding School (42 Network).
 <br />
 
 ---
