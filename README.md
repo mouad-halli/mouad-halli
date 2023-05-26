@@ -39,6 +39,6 @@ I'm a Full Stack Developer and a Software Engineering Student at 1337 Coding Sch
 ### Connect with me
 <a href="https://mouadhalli.com/" target="blank"><img align="left" src="http://mouadhalli.com/static/media/logo-no-background.9ae9cc840b2b3743ef47.png" height="28" /></a>
 <a href="https://www.linkedin.com/in/halli-m-459777208" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="28" /></a>
-<a href="https://twitter.com/HalliMouad" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="28" /></a>
+<!-- <a href="https://twitter.com/HalliMouad" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="28" /></a> -->
 
 <br />
