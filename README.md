@@ -31,13 +31,16 @@ I'm a Full Stack Developer and a Software Engineering Student at 1337 Coding Sch
 
 ### 📊 Stats
 
-![Mouad-Halli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouad-halli&show_icons=true&theme=city_lights&bg_color=00000000)
+![Mouad-Halli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouad-halli&show_icons=true&theme=city_lights&bg_color=00000000&rank_icon=github)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-halli&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ---
 
 ### Connect with me
-<a href="https://mouadhalli.com/" target="blank"><img align="left" src="http://mouadhalli.com/static/media/logo-no-background.9ae9cc840b2b3743ef47.png" height="28" /></a>
+<a href="https://mouadhalli.com/" target="blank"><img align="left" src="https://mouadhalli.com/assets/logo-20871e22.svg" height="28" /></a>
 <a href="https://www.linkedin.com/in/halli-m-459777208" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="28" /></a>
 <!-- <a href="https://twitter.com/HalliMouad" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="28" /></a> -->
 
