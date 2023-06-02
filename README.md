@@ -1,8 +1,5 @@
-## :wave: Hi my name is Halli Mouad
-<br />
-I'm a Full Stack Developer and a Software Engineering Student at 1337 Coding School (42 Network).
-<br />
-
+## :wave: Hi Welcom to my Github
+#### My name is Mouad Halli, I love exploring and creating 🚀, I'm a <b>web development enthusiast</b> and currently a software engineering student at 1337 Coding School.
 ---
 
 ### 🧰 Languages and Tools
