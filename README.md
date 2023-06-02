@@ -1,5 +1,5 @@
 ## :wave: Hi Welcom to my Github
-#### My name is Mouad Halli, I love exploring and creating 🚀, I'm a <b>web development enthusiast</b> and currently a software engineering student at 1337 Coding School.
+#### My name is Halli Mouad, I love exploring and creating 🚀, I'm a <b>web development enthusiast</b> and currently a software engineering student at 1337 Coding School.
 ---
 
 ### 🧰 Languages and Tools
