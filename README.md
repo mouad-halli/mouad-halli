@@ -35,17 +35,12 @@ I'm a Full Stack Developer and a Software Engineering Student at 1337 Coding Sch
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-halli&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br /> -->
 
-<!-- <div class='container'>
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mouad-halli&show_icons=true&theme=city_lights&bg_color=00000000&rank_icon=github" />
+<div class='container'>
+  <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mouad-halli&show_icons=true&theme=city_lights&bg_color=00000000&rank_icon=github" />
   &nbsp;
   &nbsp;
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-halli&hide_progress=true" /></div>
+  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-halli&hide_progress=true" /></div>
 </div>
- -->
- 
-<img style="height: auto; width: 45%;" align="center" src="https://github-readme-stats.vercel.app/api?username=mouad-halli&show_icons=true&theme=city_lights&bg_color=00000000&rank_icon=github" />
-<img style="height: auto; width: 45%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-halli&hide_progress=true" />
- 
 <br />
 
 ---
