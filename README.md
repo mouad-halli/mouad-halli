@@ -43,8 +43,8 @@ I'm a Full Stack Developer and a Software Engineering Student at 1337 Coding Sch
 </div>
  -->
  
-<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=mouad-halli&show_icons=true&theme=city_lights&bg_color=00000000&rank_icon=github" />
-<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-halli&hide_progress=true" />
+<img style="height: auto; width: 40%;" align="center" src="https://github-readme-stats.vercel.app/api?username=mouad-halli&show_icons=true&theme=city_lights&bg_color=00000000&rank_icon=github" />
+<img style="height: auto; width: 40%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-halli&hide_progress=true" />
  
 <br />
 
