@@ -37,10 +37,10 @@
   &nbsp;
   &nbsp;
   <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-halli&hide_progress=true" /></div>
+  &nbsp;
+  <img style="height: auto; width: 45%;" class="img" src="https://www.codewars.com/users/ZeeNiix/badges/large" /></div>
 </div>
 <br />
-
-![Codewars](https://github.r2v.ch/codewars?user=ZeeNiix&stroke=%23BB432C)
 
 ---
 
