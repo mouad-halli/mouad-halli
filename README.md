@@ -45,7 +45,7 @@
 
 ### Connect with me
 <a href="https://mouadhalli.com/" target="blank"><img align="left" src="https://mouadhalli.com/assets/logo-20871e22.svg" height="28" /></a>
-<a href="https://www.linkedin.com/in/halli-m-459777208" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="28" /></a>
+<a href="https://www.linkedin.com/in/mouad-halli" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" height="28" /></a>
 <!-- <a href="https://twitter.com/HalliMouad" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="28" /></a> -->
 
 <br />
