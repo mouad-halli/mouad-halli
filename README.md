@@ -40,7 +40,6 @@
   &nbsp;
   <img style="height: auto; width: 45%;" class="img" src="https://www.codewars.com/users/ZeeNiix/badges/large" /></div>
 </div>
-<br />
 
 ---
 
