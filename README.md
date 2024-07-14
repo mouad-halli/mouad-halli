@@ -40,6 +40,8 @@
 </div>
 <br />
 
+![Codewars](https://github.r2v.ch/codewars?user=ZeeNiix&stroke=%23BB432C)
+
 ---
 
 ### Connect with me
@@ -48,3 +50,4 @@
 <!-- <a href="https://twitter.com/HalliMouad" target="blank"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" height="28" /></a> -->
 
 <br />
+
