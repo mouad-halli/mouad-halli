@@ -1,5 +1,13 @@
-## :wave: Hi Welcom to my Github
-#### My name is Halli Mouad, I love exploring and creating 🚀, I'm a web development enthusiast and currently a software engineering student at 1337 Coding School.
+## 🌟 Full Stack Developer | 🎓 1337 Coding school(42 Network) Software Engineering Student
+
+Hello! I'm a full stack developer specializing in building dynamic and engaging web and mobile applications.
+
+Currently enrolled in the 42 Network, I’m immersed in a unique educational experience that emphasizes peer learning and project-based collaboration, pushing the boundaries of traditional learning.
+
+On the back end, I harness the power of Node.js and .NET Core to create scalable and efficient server-side solutions. For the front end, I enjoy working with cutting-edge technologies like React, React Native, and Angular to deliver intuitive user experiences.
+
+What excites me most about development is the creative problem-solving involved in each project. I thrive in collaborative environments where I can learn from my peers and contribute to innovative solutions. Beyond coding, I’m passionate about continuous learning and believe that the best way to grow is to share knowledge and code alongside others.
+
 ---
 
 ### 🧰 Languages and Tools
