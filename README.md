@@ -1,4 +1,4 @@
-## 🌟 Full Stack Developer | � 1337 Coding School (42 Network) Software Engineering Student
+## 🌟 Full Stack Developer | 🎓 1337 Coding School (42 Network) Software Engineering Student
 
 Hello! I'm a **Full Stack Developer** specializing in building dynamic and engaging web and mobile applications.  
 
